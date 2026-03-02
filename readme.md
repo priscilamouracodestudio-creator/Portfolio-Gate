@@ -5,7 +5,6 @@ Este é um projeto pessoal de agregação de links, seguindo o conceito de LinkT
 ## 📱 Preview do Projeto
 
 <div align="center">
-  <img src="/assets/dark mode.png" width="400px" alt="Preview Modo Escuro">
   <img src="/assets/light mode.png" width="400px" alt="Preview Modo Claro">
 </div>
 
