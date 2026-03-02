@@ -2,6 +2,15 @@
 
 Este é um projeto pessoal de agregação de links, seguindo o conceito de LinkTree, desenvolvido como parte do aprendizado em tecnologias web essenciais. O principal destaque é a funcionalidade de alternância de tema (Dark/Light Mode) implementada de forma dinâmica.
 
+## 📱 Preview do Projeto
+
+<div align="center">
+  <img src="/assets/dark mode.png" width="400px" alt="Preview Modo Escuro">
+  <img src="/assets/light mode.png" width="400px" alt="Preview Modo Claro">
+</div>
+
+*Visualização das versões Dark e Light Mode do projeto.*
+
 ## ✨ Destaques do Projeto
 
 * **Dark/Light Mode:** Funcionalidade completa de alternância de tema, que troca cores, bordas e imagens de fundo dinamicamente.
@@ -41,9 +50,6 @@ Você pode me encontrar e ver mais do meu trabalho através dos links abaixo:
 | Plataforma | URL |
 | :--- | :--- |
 | **GitHub** | [https://github.com/priscilamouracodestudio-creator] |
-| **Instagram** | [https://www.instagram.com/pmcodestudio/] |
-| **YouTube** | Em breve |
-| **LinkedIn** | Em breve |
 
 ---
 
